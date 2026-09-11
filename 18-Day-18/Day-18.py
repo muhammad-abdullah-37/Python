@@ -1,0 +1,1 @@
+print('Day 18 of practicing Python')
